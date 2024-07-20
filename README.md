@@ -1,4 +1,4 @@
-# Sanjeevi Kumar K V - Personal Portfolio
+# Personal Portfolio
 
 Welcome to my personal portfolio website! This site provides an overview of my background, skills, projects, and contact information. Feel free to explore and learn more about me.
 
